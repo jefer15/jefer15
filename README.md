@@ -1,36 +1,37 @@
 <h1 align="center">Hi 👋, I'm Jeferson Rolón</h1>
-<h3 align="center">A passionate full stack developer from Colombia 🇨🇴</h3>
+<h3 align="center">💻 Full Stack Web Developer | Ingeniero Informático</h3>
 
-<p align="center">🚀 Ingeniero Informático con más de 2 años de experiencia creando soluciones web modernas, desde frontend responsivo hasta APIs robustas.</p>
+<p align="center">Con más de 2 años de experiencia desarrollando soluciones web modernas utilizando tecnologías frontend y backend. Me apasiona crear productos funcionales, eficientes y bien diseñados.</p>
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
+## 🌐 Connect with me:
+<p>
   <a href="https://linkedin.com/in/jeferson-stiven-rolon-ochoa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🧰 Languages and Tools:</h3>
-<p align="left">
-  
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+## 💻 My Stack:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,tailwind,vite,nodejs,nestjs,php,laravel,mysql,postgres,express&theme=dark" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=astro,git,github,vscode,vercel,netlify,postman,graphql&theme=dark" />
 </p>
 
 ---
 
-💡 *“Siempre dispuesto a aprender y crecer profesionalmente, compartiendo lo que sé con la comunidad tecnológica.”*
+## 🚀 About Me:
+- 👨‍💻 Soy **ingeniero informático** y me desempeño como **desarrollador web full stack**.
+- 🔧 He trabajado en proyectos reales de backend y frontend usando Laravel, Angular, Node.js y NestJS.
+- 🌱 Actualmente sigo fortaleciendo mis conocimientos en tecnologías modernas como Astro, React y herramientas cloud como Vercel y Netlify.
+
+---
+
+> “Soy proactivo, organizado, responsable y siempre estoy listo para asumir nuevos retos en el mundo del desarrollo web.”
 
 ---
