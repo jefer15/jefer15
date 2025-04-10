@@ -1,37 +1,38 @@
 <h1 align="center">Hi 👋, I'm Jeferson Rolón</h1>
-<h3 align="center">💻 Full Stack Web Developer | Ingeniero Informático</h3>
+<h3 align="center">💻 Full Stack Web Developer | Software Engineer</h3>
 
-<p align="center">Con más de 2 años de experiencia desarrollando soluciones web modernas utilizando tecnologías frontend y backend. Me apasiona crear productos funcionales, eficientes y bien diseñados.</p>
+<p align="center">With over 2 years of experience developing modern web solutions using frontend and backend technologies. I am passionate about creating functional, efficient, and well-designed products.</p>
 
 ---
-
-## 🌐 Connect with me:
-<p>
-  <a href="https://linkedin.com/in/jeferson-stiven-rolon-ochoa" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeferson-stiven-rolon-ochoa)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://.vercel.app/)
 
 ---
 
 ## 💻 My Stack:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,tailwind,vite,nodejs,nestjs,php,laravel,mysql,postgres,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,nodejs,nestjs,php,laravel,mysql,postgres,express,dotnet&theme=dark" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=astro,git,github,vscode,vercel,netlify,postman,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=astro,git,github,vscode,vercel,netlify,postman&theme=dark" />
 </p>
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jefer15&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jefer15&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefer15&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
 ## 🚀 About Me:
-- 👨‍💻 Soy **ingeniero informático** y me desempeño como **desarrollador web full stack**.
-- 🔧 He trabajado en proyectos reales de backend y frontend usando Laravel, Angular, Node.js y NestJS.
-- 🌱 Actualmente sigo fortaleciendo mis conocimientos en tecnologías modernas como Astro, React y herramientas cloud como Vercel y Netlify.
+- 👨‍💻 I am a **Software Engineer** and work as a **full stack web developer**.
+- 🔧 I have worked on real backend and frontend projects using Laravel, Angular, Node.js, and NestJS.
+- 🌱 I am currently continuing to strengthen my knowledge in modern technologies such as Astro, React, and cloud tools like Vercel and Netlify.
 
 ---
 
-> “Soy proactivo, organizado, responsable y siempre estoy listo para asumir nuevos retos en el mundo del desarrollo web.”
+> “I am proactive, organized, responsible, and always ready to take on new challenges in the world of web development.”
 
 ---
