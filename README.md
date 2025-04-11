@@ -6,13 +6,13 @@
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeferson-stiven-rolon-ochoa)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-jeferson-rolons-projects.vercel.app/)
 
 ---
 
 ## 💻 My Stack:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,nodejs,nestjs,php,laravel,mysql,postgres,express,dotnet&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,nodejs,nestjs,php,laravel,mysql,postgres,express,dotnet,react&theme=dark" />
 </p>
 
 <p>
